@@ -4,7 +4,7 @@ public class Player {
     //Fields
     public String name;
     public double height;
-    public int YearsInLeague;
+    public int yearsInLeague;
 
     //Constructor
 

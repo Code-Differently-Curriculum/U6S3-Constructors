@@ -62,7 +62,7 @@ In the package `partB.ex01` complete the `Constructor` per the following:
 * Inside of the main method, create an instance of the class that has the constructor
 * Accessing the name variable inside of the newly created instance (. operator) print out the name
 
-Your program is working correctly, if when run, the following is the output (Abe first name Lincoln last name):
+Your program is working correctly, if when run, the following is the output:
 
 ```
 The constructor is being called:
