@@ -1,6 +1,7 @@
-package partA.ex01;
+package partA;
 
 public class Player {
+
     //Fields
     public String name;
     public double height;

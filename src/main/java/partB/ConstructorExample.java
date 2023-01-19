@@ -1,6 +1,7 @@
-package partB.ex01;
+package partB;
 
 public class ConstructorExample {
+
     int x = 2;
 
     public  ConstructorExample() {
